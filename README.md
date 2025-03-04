@@ -29,6 +29,10 @@ APLUS Mart is an **e-Commerce platform built using .NET and CSS**.
 ## 💻 How to Run the Project  
 1️⃣ Download the repository at master branch 
 
+
+git clone --branch master --single-branch https://github.com/Denver1683/APLUS-Mart.git
+
+
 2️⃣ Open the project in Visual Studio
 
 3️⃣ Install dependencies:
