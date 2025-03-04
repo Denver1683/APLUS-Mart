@@ -36,9 +36,14 @@ APLUS Mart is an **e-Commerce platform built using .NET and CSS**.
 Ensure you have .NET 6.0+ installed
 Run the following command in the Package Manager Console:
 
+
 dotnet restore
+
 
 4️⃣ Run the application:
 
+
 dotnet run
+
+
 The application will be available at http://localhost:5000 (or another assigned port). 
