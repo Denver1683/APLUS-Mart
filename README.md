@@ -9,6 +9,7 @@ APLUS Mart is an **e-Commerce platform built using .NET and CSS**.
 ## 📌 Features  
 ✔ **Inventory Management** – Add, update, and remove products from stock  
 ✔ **Point-of-Sale System** – Process transactions and simulate payment
+
 ✔ **Customer & Employee Management** – Register, view, and edit user details  
 ✔ **Delivery Tracking** – Track product delivery for customers  
 ✔ **User Authentication System** – Secure login for admins and employees  
